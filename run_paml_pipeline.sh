@@ -1,4 +1,5 @@
 #!/bin/bash
+# yexinhai, yexinhai@zju.edu.cn
 
 input_table_list=./input_table.list
 
