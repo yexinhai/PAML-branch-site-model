@@ -1,6 +1,8 @@
 #!/usr/bin/perl -w
 use strict;
 
+# yexinhai, yexinhai@zju.edu.cn
+
 my %hash_null;
 my %hash_alter;
 
