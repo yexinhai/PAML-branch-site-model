@@ -3,6 +3,7 @@ use strict;
 
 #用法：perl 程序.pl all.pep.fasta all.cds.fasta 1_1_1_group_sorted.txt
 #读所有物种的序列；
+# yexinhai, yexinhai@zju.edu.cn;
 
 sub Usage(){
 	print STDERR "
